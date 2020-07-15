@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Little-Earthworm.github.io
+- 🌱 I’m currently learning html
+- 📫 How to reach me: 3547347506@qq.com
+- ⚡ Fun fact: I'm a student!
 
 <!--
 **Little-Earthworm/Little-Earthworm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
