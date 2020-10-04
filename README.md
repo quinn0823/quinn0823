@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on [Earthworm-Web](https://earthworm-web.github.io/)
-- 🌱 I’m currently learning html, CSS
+- 🌱 I’m currently learning html, CSS, JS
 - 📫 How to reach me: 3547347506@qq.com
 - ⚡ Fun fact: I'm a student!
 
