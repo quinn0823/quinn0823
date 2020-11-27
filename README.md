@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning html, CSS, JS
 - 📫 How to reach me: 3547347506@qq.com
 - ⚡ Fun fact: I'm a student!
+<br>
 [![Quinn's github stats](https://github-readme-stats.vercel.app/api?username=little-earthworm&count_private=true&show_icons=true&count_private=true&title_color=0000ff&text_color=0000ff&icon_color=0000ff)](https://earthworm-web.github.io)
 
 <!--
