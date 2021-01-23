@@ -1,12 +1,12 @@
 ### Hi there 👋
-- 🔭 I’m currently working on [Earthworm-Web](https://earthworm-web.github.io/)
+- 🔭 I’m currently working on [Quinn-Web](https://Quinn0823.github.io/)
 - 🌱 I’m currently learning html, CSS, JS
 - 📫 How to reach me: 3547347506@qq.com
 - ⚡ Fun fact: I'm a student!
 [![Quinn's github stats](https://github-readme-stats.vercel.app/api?username=little-earthworm&count_private=true&show_icons=true&count_private=true&title_color=0000ff&text_color=0000ff&icon_color=0000ff)](https://earthworm-web.github.io)
 
 <!--
-**Little-Earthworm/Little-Earthworm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Quinn0823/Quinn0823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
