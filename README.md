@@ -1,19 +1,30 @@
 - 🔭 I’m currently working on 
 >HTML
+
 >CSS
+
 >JavaScript
+
 >Scratch
+
 >C++
 - 🌱 I’m currently learning
 >Chinese
+
 >Math
+
 >English
+
 >History
+
 >Politics
+
 >Geography
+
 >Biology... (in school)
 - 👯 I’m looking to collaborate on
 >[ljy-002](https://github.com/ljy-002)
+
 >[mapmaths](https://github.com/MapMaths)
 - 🤔 I’m looking for help with
 >JavaScript
