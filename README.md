@@ -2,57 +2,53 @@
 
 - 🔭 I’m currently working on 
 
->HTML
+  - HTML
 
->CSS
+  - CSS
 
->JavaScript
+  - JavaScript
 
->Scratch
+  - Scratch
 
->C++
+ - C++
 
 - 🌱 I’m currently learning
 
->Chinese
+ - Chinese
 
->Math
+ - Math
 
->English
+ - English
 
->History
+ - History
 
->Politics
-
->Geography
-
->Biology... (in school)
+ - Politics
 
 - 👯 I’m looking to collaborate on
 
->[ljy-002](https://github.com/ljy-002)
+ - [ljy-002](https://github.com/ljy-002)
 
->[mapmaths](https://github.com/MapMaths)
+ - [mapmaths](https://github.com/MapMaths)
 
 - 🤔 I’m looking for help with
 
->JavaScript
+ - JavaScript
 
 - 💬 Ask me about
 
->ALL THINGs
+ - ALL THINGs
 
 - 📫 How to reach me: 
 
->3547347506@qq.com
+ - 3547347506@qq.com
 
 - 😄 Pronouns: 
 
->CBC
+ - CBC
 
 - ⚡ Fun fact: 
 
->I'm a MIDDLE SCHOOL STUDENT!
+ - I'm a MIDDLE SCHOOL STUDENT!
 
 <hr>
 
