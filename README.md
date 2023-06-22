@@ -1,56 +1,49 @@
-### Hi there 👋
+# *:)* **Hi! I'm Quinn Qiu.** *:D*
 
-- 🔭 I’m currently working on 
+## **[Quinn-Web](https://quinn0823.github.io)**
 
-  - HTML
-  - CSS
-  - JavaScript
-  - Scratch
-  - C++
+### *:-)* Profile
 
-- 🌱 I’m currently learning
+- 16, Boy
 
-  - Chinese
-  - Math
-  - English
-  - History
-  - Politics
+- Student
 
-- 👯 I’m looking to collaborate on
+- Inventor
 
-  - [ljy-002](https://github.com/ljy-002)
-  - [mapmaths](https://github.com/MapMaths)
+- Scientist
 
-- 🤔 I’m looking for help with
+- Programmer
 
-  - JavaScript
+### *:-D* Time Line
 
-- 💬 Ask me about
+- Nov. 2007 - Came To the World
 
-  - ALL THINGs
+  - Nothing to say.
 
-- 📫 How to reach me: 
+- 2014-2020 - YY Student
+  - A student of Chongqing Yuying Primary School.
 
-  - 3547347506@qq.com
+- ......
 
-- 😄 Pronouns: 
+### Project...
 
-  - CBC
+### Music...
 
-- ⚡ Fun fact: 
+### Lab...
 
-  - I'm a MIDDLE SCHOOL STUDENT!
+### *:P* **KNOW MORE?** *:D*
 
-<hr>
+  - *XD* **GO TO [Quinn-Web](https://quinn0823.github.io) NOW!**
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=Quinn0823&count_private=true&include_all_commits=true&show_icons=true&title_color=#0000ff&icon_color=#0066ff)](https://github.com/Quinn0823)
+  - [Repositoriy (quinn0823.github.io)](https://github.com/Quinn0823/quinn0823.github.io)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quinn0823)](https://github.com/Quinn0823)
+  - [Snapshot - BETA](https://quinn0823.github.io/snapshot.html)
 
 <!--
 **Quinn0823/Quinn0823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Hi there 👋
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -59,4 +52,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
