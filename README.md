@@ -37,7 +37,7 @@
 
   - [Repositoriy (quinn0823.github.io)](https://github.com/Quinn0823/quinn0823.github.io)
 
-  - [Snapshot - BETA](https://quinn0823.github.io/about.html)
+  - [Snapshot - BETA](https://quinn0823.github.io/website.html)
 
 <!--
 **Quinn0823/Quinn0823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
