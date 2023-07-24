@@ -31,7 +31,7 @@
 
 ### Lab...
 
-### *:P* **KNOW MORE?** *:D*
+## *:P* **KNOW MORE?** *:D*
 
   - *XD* **GO TO [Quinn-Web](https://quinn0823.github.io) NOW!**
 
