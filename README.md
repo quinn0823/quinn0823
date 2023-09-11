@@ -14,10 +14,10 @@
   - A student of Chongqing Yuying Primary School.
 - ...
 ## Projects
-### 💾 Projects Stored on Quinn-Web
-- 📝 <a href="projects/公式默写器.html">公式默写器 (Mainland China - Simplified Chinese)</a>
-- 📚 <a href="projects/tdh/">Textbook Download Helper</a>
-- 🔢 <a href="projects/ddmt/">Digital Dot Matrix Tool</a>
+### 💾 Stored on <a href="https://quinn0823.github.io/projects/" target="_blank">Quinn-Web</a>
+- 📝 <a href="https://quinn0823.github.io/projects/公式默写器.html">公式默写器 (Mainland China - Simplified Chinese)</a>
+- 📚 <a href="https://quinn0823.github.io/projects/tdh/">Textbook Download Helper</a>
+- 🔢 <a href="https://quinn0823.github.io/projects/ddmt/">Digital Dot Matrix Tool</a>
 ### 😺 <a href="https://scratch.mit.edu/" target="_blank">Scratch</a>
 1. 💻 <a href="https://scratch.mit.edu/projects/413381564" target="_blank">Earth OS</a>
 2. 🔲 <a href="https://scratch.mit.edu/projects/416589271" target="_blank">Don't get out of the white area!</a>
@@ -26,46 +26,24 @@
 - <details>
     <summary>👀 See all (10)</summary>
 
-    - <details>
-        <summary>🖥️ OS (2)</summary>
-
+    - 🖥️ OS (2)
         - 💻 <a href="https://scratch.mit.edu/projects/413381564" target="_blank">Earth OS</a>
         - 🛠️ <a href="https://scratch.mit.edu/projects/410305536" target="_blank">Earth OS ʙᴇᴛᴀ</a>
-
-    </details>
-
-    - <details>
-        <summary>🎮 Games(3)</summary>
-        
+    - 🎮 Games(3) 
         - 🔲 <a href="https://scratch.mit.edu/projects/416589271" target="_blank">Don't get out of the white area!</a>
         - 💃 <a href="https://scratch.mit.edu/projects/414137279" target="_blank">Don't move!</a>
         - 🔇 <a href="https://scratch.mit.edu/projects/415955109/" target="_blank">Don't make a sound!</a>
-    </details>
-    
-    - <details>
-        <summary>🎨 Arts (1)</summary>
-        🖼️ <a href="https://scratch.mit.edu/projects/417509515" target="_blank">Cloud Shared Artboard</a>
-    </details>
-    
-    - <details>
-        <summary>🎶 Songs (1)</summary>
-        🔢 <a href="https://scratch.mit.edu/projects/410036839" target="_blank">3.14 - A Song Of π (2500 Decimal Places)</a>
-    </details>
-    
-    - <details>
-        <summary>🏃🏻‍♂️ Animations (1)</summary>
-        🌄 <a href="https://scratch.mit.edu/projects/410051645" target="_blank">4 Seasons</a>
-    </details>
-    
-    - <details>
-        <summary>🔨 Tools (1)</summary>
-        🔐 <a href="https://scratch.mit.edu/projects/380777230" target="_blank">Secret Converter</a>
-    </details>
-    
-    - <details>
-        <summary>📔 Tutorials (1)</summary>
-        😎 <a href="https://scratch.mit.edu/projects/419850174" target="_blank">Emojis That Can Be Used On Scratch</a>
-    </details>
+    - 🎨 Arts (1)
+        - 🖼️ <a href="https://scratch.mit.edu/projects/417509515" target="_blank">Cloud Shared Artboard</a>
+    - 🎶 Songs (1)
+        - 🔢 <a href="https://scratch.mit.edu/projects/410036839" target="_blank">3.14 - A Song Of π (2500 Decimal Places)</a>
+    - 🏃🏻‍♂️ Animations (1)
+        - 🌄 <a href="https://scratch.mit.edu/projects/410051645" target="_blank">4 Seasons</a>
+    - 🔨 Tools (1)
+        - 🔐 <a href="https://scratch.mit.edu/projects/380777230" target="_blank">Secret Converter</a>
+    - 📔 Tutorials (1)
+        - 😎 <a href="https://scratch.mit.edu/projects/419850174" target="_blank">Emojis That Can Be Used On Scratch</a>
+
 </details>
 
 ## Want to KNOW MORE about me?
