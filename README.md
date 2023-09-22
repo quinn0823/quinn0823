@@ -1,4 +1,4 @@
-# Hi! I'm Quinn Qiu.
+<h1 align=center>Hi! I'm Quinn Qiu.</h1>
 
 ## 🤣 Profile
 
@@ -23,7 +23,7 @@
 
 ### 💾 Stored on `<a href="https://quinn0823.github.io/projects/" target="_blank">`Quinn-Web`</a>`
 
-- 📝 `<a href="https://quinn0823.github.io/projects/公式默写器.html" target="_blank">`公式默写器 (Mainland China - Simplified Chinese)`</a>`
+- 📝 `<a href="https://quinn0823.github.io/projects/fw/" target="_blank">`公式默写器 (Mainland China - Simplified Chinese)`</a>`
 - 📚 `<a href="https://quinn0823.github.io/projects/tdh/" target="_blank">`Textbook Download Helper`</a>`
 - 🔢 `<a href="https://quinn0823.github.io/projects/ddmt/" target="_blank">`Digital Dot Matrix Tool`</a>`
 
