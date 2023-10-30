@@ -19,7 +19,7 @@
 - 2020-2023 - HF Student
   - A student of Hongfan School Attached to Chongqing No.8 Secondary School.
 
-## Projects
+## 🛠️ Projects
 
 ### 💾 Stored on <a href="https://quinn0823.github.io/projects/" target="_blank">Quinn-Web</a>
 
@@ -64,7 +64,7 @@
 
 </details>
 
-## Want to KNOW MORE about me?
+## ℹ️ Want to KNOW MORE about me?
 
 ### Let's go to <a href="https://quinn0823.github.io/projects/" target="_blank">Quinn-Web</a> NOW!
 
@@ -75,7 +75,7 @@
 
 <!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=quinn0823&repo=quinn0823.github.io&show_owner=true&title_color=fff&text_color=fff&icon_color=99ccff&border_color=99ccff&bg_color=6699cc#gh-dark-mode-only)](https://github.com/quinn0823/quinn0823.github.io/) -->
 
-## Other Informations
+## 📊 Other Informations
 
 ![](https://github-readme-stats.vercel.app/api?username=Quinn0823&count_private=true&show_icons=true&rank_icon=percentile&text_bold=false&title_color=6699cc&text_color=000000&icon_color=6699cc&border_color=6699cc&bg_color=ffffff#gh-light-mode-only)
 
