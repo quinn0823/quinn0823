@@ -2,22 +2,28 @@
 
 ## 🤣 Profile
 
-- 👨 16 (Calculated by JavaScript), Boy
+- 👨 17, Male
+- 🦄 Unicorn, B→G
 - 🏫 Student
-- ⌨️ Coding Lover
+- 🚴‍♂️ Cycling Amateur
+- 💻 Coding Enthusiast
+- 🌅 Photographer
 - 📱 Apple Fan
-- 🚴‍♂️ Cycling Enthusiast
-- 🌅 Photographer (Amateurish)
-- 🎮 Minecraftor
+- 🚙 Tesla Fan
+- 🎮 Minecraft Player (JE)
 
 ## 🕓 Time Line
 
 - Nov. 2007 - Came To the World
-  - Nothing to say.
+    - Nothing to say.
 - 2014-2020 - YY Student
-  - A student of Chongqing Yuying Primary School.
+    - A student of Chongqing Yuying Primary School.
 - 2020-2023 - HF Student
-  - A student of Hongfan School Attached to Chongqing No.8 Secondary School.
+    - A student of Hongfan School Attached to Chongqing No.8 Secondary School.
+- 2023-2024 - ???
+    - ???
+- 2024-2027 - BZ Student
+    - A student of Chongqing No.8 Secondary School.
 
 ## 🛠️ Projects
 
