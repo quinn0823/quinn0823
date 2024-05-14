@@ -27,7 +27,7 @@
 
 ## 🛠️ Projects
 
-### 💾 Stored on <a href="https://quinn0823.github.io/projects/" target="_blank">Quinn-Web</a>
+### 💾 Stored on <a href="https://quinn0823.github.io/projects.html" target="_blank">Quinn-Web</a>
 
 - 📝 <a href="https://quinn0823.github.io/projects/公式默写器.html" target="_blank">公式默写器 (Mainland China - Simplified Chinese)</a>
 - 📚 <a href="https://quinn0823.github.io/projects/tdh/" target="_blank">Textbook Download Helper</a>
@@ -72,10 +72,10 @@
 
 ## ℹ️ Want to KNOW MORE about me?
 
-### Let's go to <a href="https://quinn0823.github.io/projects/" target="_blank">Quinn-Web</a> NOW!
+### Let's go to <a href="https://quinn0823.github.io/" target="_blank">Quinn-Web</a> NOW!
 
-- <a href="https://github.com/Quinn0823/quinn0823.github.io" target="_blank">Repositoriy
-- </a><a href="https://quinn0823.github.io/website.html" target="_blank">Snapshot</a>
+- <a href="https://github.com/Quinn0823/quinn0823.github.io" target="_blank">Repositoriy</a>
+- <a href="https://quinn0823.github.io/website.html" target="_blank">Snapshot</a>
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=quinn0823&repo=quinn0823.github.io&show_owner=true&title_color=6699cc&text_color=000000&icon_color=6699cc&border_color=6699cc&bg_color=ffffff#gh-light-mode-only)](https://github.com/quinn0823/quinn0823.github.io/)
 
