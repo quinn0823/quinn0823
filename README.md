@@ -28,9 +28,9 @@
 
 ### 🌐 Web Projects
 
-- 📝 <a href="https://quinnqiu9998.github.io/projects/公式默写器.html" target="_blank">公式默写器 (Mainland China - Simplified Chinese)</a>
-- 📚 <a href="https://quinnqiu9998.github.io/projects/tdh/" target="_blank">Textbook Download Helper</a>
-- 🔢 <a href="https://quinnqiu9998.github.io/projects/ddmt/" target="_blank">Digital Dot Matrix Tool</a>
+- 📝 <a href="https://quinn0823.github.io/projects/公式默写器.html" target="_blank">公式默写器 (Mainland China - Simplified Chinese)</a>
+- 📚 <a href="https://quinn0823.github.io/projects/tdh/" target="_blank">Textbook Download Helper</a>
+- 🔢 <a href="https://quinn0823.github.io/projects/ddmt/" target="_blank">Digital Dot Matrix Tool</a>
 
 
 ### 😺 <a href="https://scratch.mit.edu/" target="_blank">Scratch</a>
@@ -71,30 +71,30 @@
 
 ## ℹ️ Know More
 
-### Please go to <a href="https://quinnqiu9998.github.io/" target="_blank">Quinn-Web</a>.
+### Please go to <a href="https://quinn0823.github.io/" target="_blank">Quinn-Web</a>.
 
-- <a href="https://github.com/quinnqiu9998/quinnqiu9998.github.io" target="_blank">Repositoriy</a>
-- <a href="https://quinnqiu9998.github.io/web_preview" target="_blank">Quinn-Web Preview</a>
-- <a href="https://quinnqiu9998.github.io/website.html" target="_blank">Snapshot</a>
+- <a href="https://github.com/quinn0823/quinn0823.github.io" target="_blank">Repositoriy</a>
+- <a href="https://quinn0823.github.io/web_preview" target="_blank">Quinn-Web Preview</a>
+- <a href="https://quinn0823.github.io/website.html" target="_blank">Snapshot</a>
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=quinnqiu9998&repo=quinnqiu9998.github.io&show_owner=true&title_color=6699cc&text_color=000000&icon_color=6699cc&border_color=6699cc&bg_color=ffffff#gh-light-mode-only)](https://github.com/quinnqiu9998/quinnqiu9998.github.io/)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=quinn0823&repo=quinn0823.github.io&show_owner=true&title_color=6699cc&text_color=000000&icon_color=6699cc&border_color=6699cc&bg_color=ffffff#gh-light-mode-only)](https://github.com/quinn0823/quinn0823.github.io/)
 
-<!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=quinnqiu9998&repo=quinnqiu9998.github.io&show_owner=true&title_color=fff&text_color=fff&icon_color=99ccff&border_color=99ccff&bg_color=6699cc#gh-dark-mode-only)](https://github.com/quinnqiu9998/quinnqiu9998.github.io/) -->
+<!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=quinn0823&repo=quinn0823.github.io&show_owner=true&title_color=fff&text_color=fff&icon_color=99ccff&border_color=99ccff&bg_color=6699cc#gh-dark-mode-only)](https://github.com/quinn0823/quinn0823.github.io/) -->
 
 ## 📊 Other Informations
 
-![](https://github-readme-stats.vercel.app/api?username=quinnqiu9998&count_private=true&show_icons=true&rank_icon=percentile&text_bold=false&title_color=6699cc&text_color=000000&icon_color=6699cc&border_color=6699cc&bg_color=ffffff#gh-light-mode-only)
+![](https://github-readme-stats.vercel.app/api?username=quinn0823&count_private=true&show_icons=true&rank_icon=percentile&text_bold=false&title_color=6699cc&text_color=000000&icon_color=6699cc&border_color=6699cc&bg_color=ffffff#gh-light-mode-only)
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=quinnqiu9998&count_private=true&show_icons=true&rank_icon=percentile&text_bold=false&title_color=ffffff&text_color=ffffff&icon_color=99ccff&border_color=99ccff&bg_color=6699cc#gh-dark-mode-only) -->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=quinn0823&count_private=true&show_icons=true&rank_icon=percentile&text_bold=false&title_color=ffffff&text_color=ffffff&icon_color=99ccff&border_color=99ccff&bg_color=6699cc#gh-dark-mode-only) -->
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=quinnqiu9998&title_color=6699cc&text_color=000000&icon_color=6699cc&border_color=6699cc&bg_color=ffffff#gh-light-mode-only)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=quinn0823&title_color=6699cc&text_color=000000&icon_color=6699cc&border_color=6699cc&bg_color=ffffff#gh-light-mode-only)
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=quinnqiu9998&title_color=fff&text_color=fff&border_color=99ccff&bg_color=6699cc#gh-dark-mode-only) -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=quinn0823&title_color=fff&text_color=fff&border_color=99ccff&bg_color=6699cc#gh-dark-mode-only) -->
 
 
 <!--
-**quinnqiu9998/quinnqiu9998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**quinn0823/quinn0823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Hi there 👋
 
