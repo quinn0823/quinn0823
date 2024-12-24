@@ -28,9 +28,12 @@
 
 ### 🌐 Web Projects
 
-- 📝 <a href="https://quinn0823.github.io/projects/公式默写器.html" target="_blank">公式默写器 (Mainland China - Simplified Chinese)</a>
-- 📚 <a href="https://quinn0823.github.io/projects/tdh/" target="_blank">Textbook Download Helper</a>
-- 🔢 <a href="https://quinn0823.github.io/projects/ddmt/" target="_blank">Digital Dot Matrix Tool</a>
+- 🚍 <a href="https://quinn0823.github.io/cpt/" target="_blank">CPT (Chongqing Public Transport)</a>
+- 🔢 <a href="https://quinn0823.github.io/digital-dot-matrix-tool_remake/" target="_blank">Digital Dot Matrix Tool Remake</a>
+- 🚲 <a href="https://quinn0823.github.io/dot-matrix-for-bicycle/" target="_blank">Dot Matrix For Bicycle</a>
+- 🗒️ <a href="https://quinn0823.github.io/character-conversion-tool/" target="_blank">Character Conversion Tool</a>
+- 📚 <a href="https://quinn0823.github.io/textbook-download-helper/" target="_blank">Textbook Download Helper</a>
+- 📝 <a href="https://quinn0823.github.io/formula-writer/" target="_blank">Formula Writer</a> (Simplified Chinese)
 
 
 ### 😺 <a href="https://scratch.mit.edu/" target="_blank">Scratch</a>
