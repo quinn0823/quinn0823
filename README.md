@@ -1,6 +1,6 @@
 <h1 align=center>Hi! I'm Jonathan Chiu.</h1>
 
-<p align="center">I'm carrying out large-scale renovations on all my projects...</p>
+<p align="center">I'm carrying out a large-scale renovation on all my projects...</p>
 
 ## Progress
 
@@ -22,3 +22,7 @@
 - [ ] [web-dock-bar](https://github.com/quinn0823/web-dock-bar)
 - [ ] [web_preview](https://github.com/quinn0823/web_preview)
 - [x] [yi-ology](https://github.com/quinn0823/yi-ology)
+
+## Profile
+
+- [OLD.md](OLD.md)
