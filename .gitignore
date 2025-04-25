@@ -1,3 +1,4 @@
+# Windows
 # Windows thumbnail cache files
 Thumbs.db
 Thumbs.db:encryptable
@@ -24,6 +25,7 @@ $RECYCLE.BIN/
 *.lnk
 
 
+# macOS
 # General
 .DS_Store
 .AppleDouble
@@ -31,7 +33,6 @@ $RECYCLE.BIN/
 
 # Icon must end with two \r
 Icon
-
 
 # Thumbnails
 ._*
@@ -53,6 +54,7 @@ Temporary Items
 .apdisk
 
 
+# Linux
 *~
 
 # temporary files which can be created if a process still has a handle open of a deleted file
@@ -69,3 +71,18 @@ Temporary Items
 
 # Log files created by default by the nohup command
 nohup.out
+
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
