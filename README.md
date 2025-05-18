@@ -2,7 +2,7 @@
 
 <p align="center">I'm carrying out a large-scale renovation on all my projects...</p>
 
-## Progress
+## Progress (4/20)
 
 - [x] [apple-siri-voice-navigation](https://github.com/quinn0823/apple-siri-voice-navigation)
 - [ ] [apple-supports-community-posting-tools](https://github.com/quinn0823/apple-supports-community-posting-tools)
@@ -14,6 +14,7 @@
 - [ ] [digital-dot-matrix-tool_remake](https://github.com/quinn0823/digital-dot-matrix-tool_remake)
 - [ ] [dot-matrix-for-bicycle](https://github.com/quinn0823/dot-matrix-for-bicycle)
 - [ ] [formula-writer](https://github.com/quinn0823/formula-writer)
+- [x] [jellytion](https://github.com/quinn0823/jellytion)
 - [ ] [projects](https://github.com/quinn0823/projects)
 - [ ] [quinn0823](https://github.com/quinn0823/quinn0823)
 - [ ] [quinn0823.github.io](https://github.com/quinn0823/quinn0823.github.io)
