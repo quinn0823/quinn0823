@@ -23,7 +23,7 @@
 - [ ] [universal](https://github.com/quinn0823/universal)
 - [x] [web-dock](https://github.com/quinn0823/web-dock)
 - [ ] [web_preview](https://github.com/quinn0823/web_preview)
-- [x] [yi-ology](https://github.com/quinn0823/yi-ology)
+- [x] ~~[yi-ology](https://github.com/quinn0823/yi-ology)~~ (private)
 
 ## Profile
 
