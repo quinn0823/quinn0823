@@ -2,7 +2,7 @@
 
 <p align="center">I'm carrying out a large-scale renovation on all my projects...</p>
 
-## Progress (9/21)
+## Progress (10/21)
 
 - [x] *[81-names](https://github.com/quinn0823/81-names)* (private)
 - [x] [apple-siri-voice-navigation](https://github.com/quinn0823/apple-siri-voice-navigation)
@@ -17,7 +17,7 @@
 - [x] ~~formula-writer~~ → [formula-checker](https://github.com/quinn0823/formula-checker)
 - [x] [jellytion](https://github.com/quinn0823/jellytion)
 - [ ] [projects](https://github.com/quinn0823/projects)
-- [ ] [quinn0823](https://github.com/quinn0823/quinn0823)
+- [x] [quinn0823](https://github.com/quinn0823/quinn0823)
 - [ ] [quinn0823.github.io](https://github.com/quinn0823/quinn0823.github.io)
 - [ ] [snapshots](https://github.com/quinn0823/snapshots)
 - [ ] [textbook-download-helper](https://github.com/quinn0823/textbook-download-helper)
