@@ -10,7 +10,7 @@
 - [x] [AriaNg](https://github.com/quinn0823/AriaNg)
 - [ ] [character-conversion-tool](https://github.com/quinn0823/character-conversion-tool)
 - [x] [CheckTMDB](https://github.com/quinn0823/CheckTMDB)
-- [ ] [cpt](https://github.com/quinn0823/cpt)
+- [ ] *[cpt](https://github.com/quinn0823/cpt)* (Temporarily private)
 - [ ] *[digital-dot-matrix-tool](https://github.com/quinn0823/digital-dot-matrix-tool)* (Temporarily private)
 - [ ] *[digital-dot-matrix-tool_remake](https://github.com/quinn0823/digital-dot-matrix-tool_remake)* (Temporarily private)
 - [ ] *[dot-matrix-for-bicycle](https://github.com/quinn0823/dot-matrix-for-bicycle)* (Temporarily private)
