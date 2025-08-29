@@ -15,6 +15,8 @@
 
 ## 🌐 Speaking...
 
+See me on [Duolingo](https://www.duolingo.com/profile/jonathanchiu98).
+
 - 🇨🇳 Mandarin
 - 🇺🇸 English
 - Learning:
@@ -35,6 +37,8 @@
 - 🎞️ `LGBT` movies and TV shows
 
 ## 🎮 Playing...
+
+See me on [Steam](https://steamcommunity.com/id/quinn0823) or [Epic Games](https://store.epicgames.com/u/109b66d638bd4aaeb32574a33cd3d87b).
 
 - 🚛 SCS truck simulator games (ETS2 and ATS)
 - 👾 Minecraft
