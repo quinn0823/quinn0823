@@ -1,7 +1,3 @@
-<h1 align=center>Hi! I'm Jonathan Chiu.</h1>
-
-<p align="center">I'm carrying out a large-scale renovation on all my projects...</p>
-
 ## Progress [7 / 15 (10 / 21)]
 
 - [x] *[81-names](https://github.com/quinn0823/81-names)* (Private)
@@ -25,7 +21,3 @@
 - [x] ~~web-dock-bar~~ → [web-dock](https://github.com/quinn0823/web-dock)
 - [ ] [web_preview](https://github.com/quinn0823/web_preview)
 - [x] *[yi-ology](https://github.com/quinn0823/yi-ology)* (Private)
-
-## Profile
-
-- [OLD.md](./OLD.md)
