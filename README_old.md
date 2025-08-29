@@ -50,7 +50,7 @@
         - 💻 <a href="https://scratch.mit.edu/projects/413381564" target="_blank">Earth OS</a>
         - 🛠️ <a href="https://scratch.mit.edu/projects/410305536" target="_blank">Earth OS ʙᴇᴛᴀ</a>
 
-    - 🎮 Games(3) 
+    - 🎮 Games(3)
         - 🔲 <a href="https://scratch.mit.edu/projects/416589271" target="_blank">Don't get out of the white area!</a>
         - 💃 <a href="https://scratch.mit.edu/projects/414137279" target="_blank">Don't move!</a>
         - 🔇 <a href="https://scratch.mit.edu/projects/415955109/" target="_blank">Don't make a sound!</a>
@@ -90,23 +90,6 @@
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=quinn0823&count_private=true&show_icons=true&rank_icon=percentile&text_bold=false&title_color=ffffff&text_color=ffffff&icon_color=99ccff&border_color=99ccff&bg_color=6699cc#gh-dark-mode-only) -->
 
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=quinn0823&title_color=6699cc&text_color=000000&icon_color=6699cc&border_color=6699cc&bg_color=ffffff#gh-light-mode-only)
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=quinn0823&title_color=fff&text_color=fff&border_color=99ccff&bg_color=6699cc#gh-dark-mode-only) -->
-
-
-<!--
-**quinn0823/quinn0823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-### Hi there 👋
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
