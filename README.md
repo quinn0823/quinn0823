@@ -9,6 +9,8 @@
 
 ## ⌨️ Coding...
 
+See me on [WakeTime](https://wakatime.com/@jonathanchiu).
+
 - HTML and CSS
 - JavaScript
 - Python
@@ -29,6 +31,8 @@ See me on [Duolingo](https://www.duolingo.com/profile/jonathanchiu98).
 
 ## 💪 Interested in...
 
+See me on [MusicBrainz](https://musicbrainz.org/user/JonathanChiu), [IMDb](https://www.imdb.com/user/ur179299327) or [TMDB](https://www.themoviedb.org/u/quinn0823).
+
 - 🚴‍♂️ Road cycling
 - 🖥️ Apple's and Tesla's products
 - 🐧 Linux
@@ -38,7 +42,7 @@ See me on [Duolingo](https://www.duolingo.com/profile/jonathanchiu98).
 
 ## 🎮 Playing...
 
-See me on [Steam](https://steamcommunity.com/id/quinn0823) or [Epic Games](https://store.epicgames.com/u/109b66d638bd4aaeb32574a33cd3d87b).
+See me on [Steam](https://steamcommunity.com/id/quinn0823), [Epic Games](https://store.epicgames.com/u/109b66d638bd4aaeb32574a33cd3d87b), [Xbox](https://www.xbox.com/zh-CN/play/user/Quinn110823), [World of Trucks](https://www.worldoftrucks.com/en/profile/9217093), [NameMC](https://namemc.com/profile/JonathanChiu.1) or [Nexus Mods](https://next.nexusmods.com/profile/JonathanChiu).
 
 - 🚛 SCS truck simulator games (ETS2 and ATS)
 - 👾 Minecraft
@@ -54,6 +58,6 @@ See me on [Steam](https://steamcommunity.com/id/quinn0823) or [Epic Games](https
 
 ### Apple Siri Voice Navigation
 
-[Repository](https://github.com/quinn0823/apple-siri-voice-navigation) | [Subscribe on Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) | Download from Nexus Mods
+[Repository](https://github.com/quinn0823/apple-siri-voice-navigation) | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) | Nexus Mods
 
 *Experience the road with Siri! Apple Siri Voice Navigation brings the iconic voices in Apple OS to truck simulator games. With over 80 voices in 21 languages to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.*
