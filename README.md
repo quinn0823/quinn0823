@@ -42,7 +42,7 @@ See me on [MusicBrainz](https://musicbrainz.org/user/JonathanChiu), [IMDb](https
 
 ## 🎮 Playing...
 
-See me on [Steam](https://steamcommunity.com/id/quinn0823), [Epic Games](https://store.epicgames.com/u/109b66d638bd4aaeb32574a33cd3d87b), [Xbox](https://www.xbox.com/zh-CN/play/user/Quinn110823), [World of Trucks](https://www.worldoftrucks.com/en/profile/9217093), [NameMC](https://namemc.com/profile/JonathanChiu.1) or [Nexus Mods](https://next.nexusmods.com/profile/JonathanChiu).
+See me on [Steam](https://steamcommunity.com/id/quinn0823), [Epic Games](https://store.epicgames.com/u/109b66d638bd4aaeb32574a33cd3d87b), [Xbox](https://www.xbox.com/play/user/Quinn110823), [World of Trucks](https://www.worldoftrucks.com/en/profile/9217093), [NameMC](https://namemc.com/profile/JonathanChiu.1) or [Nexus Mods](https://next.nexusmods.com/profile/JonathanChiu).
 
 - 🚛 SCS truck simulator games (ETS2 and ATS)
 - 👾 Minecraft
