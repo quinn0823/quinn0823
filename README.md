@@ -31,7 +31,7 @@ See me on [Duolingo](https://www.duolingo.com/profile/jonathanchiu98).
 
 ## 💪 Interested in...
 
-See me on [MusicBrainz](https://musicbrainz.org/user/JonathanChiu), [IMDb](https://www.imdb.com/user/ur179299327) or [TMDB](https://www.themoviedb.org/u/quinn0823).
+See me on [MusicBrainz](https://musicbrainz.org/user/JonathanChiu), [IMDb](https://www.imdb.com/user/ur179299327), or [TMDB](https://www.themoviedb.org/u/quinn0823).
 
 - 🚴‍♂️ Road cycling
 - 🖥️ Apple's and Tesla's products
@@ -42,7 +42,7 @@ See me on [MusicBrainz](https://musicbrainz.org/user/JonathanChiu), [IMDb](https
 
 ## 🎮 Playing...
 
-See me on [Steam](https://steamcommunity.com/id/quinn0823), [Epic Games](https://store.epicgames.com/u/109b66d638bd4aaeb32574a33cd3d87b), [Xbox](https://www.xbox.com/play/user/Quinn110823), [World of Trucks](https://www.worldoftrucks.com/en/profile/9217093), [NameMC](https://namemc.com/profile/JonathanChiu.1) or [Nexus Mods](https://next.nexusmods.com/profile/JonathanChiu).
+See me on [Steam](https://steamcommunity.com/id/quinn0823), [Epic Games](https://store.epicgames.com/u/109b66d638bd4aaeb32574a33cd3d87b), [Xbox](https://www.xbox.com/play/user/Quinn110823), [World of Trucks](https://www.worldoftrucks.com/en/profile/9217093), [NameMC](https://namemc.com/profile/JonathanChiu.1), or [Nexus Mods](https://next.nexusmods.com/profile/JonathanChiu).
 
 - 🚛 SCS truck simulator games (ETS2 and ATS)
 - 👾 Minecraft
@@ -58,6 +58,6 @@ See me on [Steam](https://steamcommunity.com/id/quinn0823), [Epic Games](https:/
 
 ### Apple Siri Voice Navigation
 
-[Repository](https://github.com/quinn0823/apple-siri-voice-navigation) | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) | Nexus Mods
+[Repository](https://github.com/quinn0823/apple-siri-voice-navigation) | [Workshop (ETS2)](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) | [Workshop (ATS)](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298) | [Nexus Mods (ETS2)](https://www.nexusmods.com/eurotrucksimulator2/mods/173) | [Nexus Mods (ATS)](https://www.nexusmods.com/americantrucksimulator/mods/77)
 
 *Experience the road with Siri! Apple Siri Voice Navigation brings the iconic voices in Apple OS to truck simulator games. With over 80 voices in 21 languages to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.*
