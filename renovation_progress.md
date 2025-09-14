@@ -1,8 +1,7 @@
-## Progress [8 / 16 (11 / 22)]
+## Progress [7 / 15 (10 / 21)]
 
 - [x] *[81-names](https://github.com/quinn0823/81-names)* (Private)
 - [x] [apple-siri-voice-navigation](https://github.com/quinn0823/apple-siri-voice-navigation)
-- [ ] [apple-supports-community-posting-tools](https://github.com/quinn0823/apple-supports-community-posting-tools)
 - [x] [AriaNg](https://github.com/quinn0823/AriaNg)
 - [ ] [character-conversion-tool](https://github.com/quinn0823/character-conversion-tool)
 - [x] [CheckTMDB](https://github.com/quinn0823/CheckTMDB)
