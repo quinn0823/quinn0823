@@ -47,11 +47,6 @@ See me on [Steam](https://steamcommunity.com/id/quinn0823), [Epic Games](https:/
 - 🚛 SCS truck simulator games (ETS2 and ATS)
 - 👾 Minecraft
 - 🐤 Stardew Valley
-- 🏙️ Cities: Skylines
-- 👒 Spiritfarer
-- 🎢 Poly Bridge
-- 🏗️ Prison Architect
-- ✈️ Transport Fever
 - ...
 
 ## 👨‍💻 Working on...
