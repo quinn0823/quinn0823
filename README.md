@@ -38,7 +38,7 @@ See me on [MusicBrainz](https://musicbrainz.org/user/JonathanChiu), [IMDb](https
 - 🐧 Linux
 - 🐳 Server, NAS and Docker
 - 🎵 `Pop` and `Electronic` music
-- 🎞️ `LGBT` movies and TV shows
+- 🎞️ `Love` movies and TV shows
 
 ## 🎮 Playing...
 
