@@ -1,4 +1,4 @@
-## Progress [6 / 14 (9 / 20)]
+## Progress [7 / 14 (10 / 20)]
 
 - [x] *[81-names](https://github.com/quinn0823/81-names)* (Private)
 - [x] [apple-siri-voice-navigation](https://github.com/quinn0823/apple-siri-voice-navigation)
@@ -15,7 +15,7 @@
 - [x] [quinn0823](https://github.com/quinn0823/quinn0823)
 - [ ] [quinn0823.github.io](https://github.com/quinn0823/quinn0823.github.io) (Pages is disabled)
 - [ ] [snapshots](https://github.com/quinn0823/snapshots)
-- [ ] [textbook-download-helper](https://github.com/quinn0823/textbook-download-helper)
+- [x] [textbook-download-helper](https://github.com/quinn0823/textbook-download-helper)
 - [x] [universal](https://github.com/quinn0823/universal)
 - [x] ~~web-dock-bar~~ → [web-dock](https://github.com/quinn0823/web-dock)
 - [ ] [web_preview](https://github.com/quinn0823/web_preview)
