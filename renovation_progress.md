@@ -2,7 +2,7 @@
 
 <p align="center">I'm carrying out a large-scale renovation on all my projects...</p>
 
-## 📈 Progress [7 / 15 (12 / 21)]
+## 📈 Progress [7 / 14 (12 / 20)]
 
 - [x] *[81-names](https://github.com/quinn0823/81-names)* (Private)
 - [x] [apple-siri-voice-navigation](https://github.com/quinn0823/apple-siri-voice-navigation)
