@@ -2,10 +2,10 @@
 
 <p align=center>17, STUDENT, DEVELOPER</p>
 
-## 🦄 About
+<!-- ## 🦄 About
 
-- 2020 - 2023: 👨‍🎓 Student (General), Hongfan School Attached to Chongqing No.8 Secondary School
-- 2025 - 2028: 👨‍🎓 Student (General), Chongqing No.8 Secondary School
+- 2020 - 2023: 👨‍🎓 Student, Hongfan School Attached to Chongqing No.8 Secondary School
+- 2025 - 2028: 👨‍🎓 Student, Chongqing No.8 Secondary School -->
 
 ## ⌨️ Coding...
 
@@ -14,6 +14,7 @@ See me on [WakeTime](https://wakatime.com/@jonathanchiu).
 - HTML and CSS
 - JavaScript
 - Python
+- C / C++
 
 ## 🌐 Speaking...
 
@@ -21,22 +22,25 @@ See me on [Duolingo](https://www.duolingo.com/profile/jonathanchiu98).
 
 - 🇨🇳 Mandarin
 - 🇺🇸 English
-- Learning:
+
+<!-- - Learning:
     - 🇯🇵 Japanese
     - 🇪🇸 Spanish
     - 🇫🇷 French
     - 🇮🇹 Italian
     - 🇮🇱 Hebrew
-    - 🇬🇷 Greek
+    - 🇬🇷 Greek -->
 
 ## 💪 Interested in...
 
 See me on [MusicBrainz](https://musicbrainz.org/user/JonathanChiu), [IMDb](https://www.imdb.com/user/ur179299327), or [TMDB](https://www.themoviedb.org/u/quinn0823).
 
+<!-- - 🖥️ Apple's and Tesla's products -->
+<!-- - 🐧 Linux -->
+
 - 🚴‍♂️ Road cycling
-- 🖥️ Apple's and Tesla's products
-- 🐧 Linux
-- 🐳 Server, NAS and Docker
+- 📷 Photography
+- 🐳 Server and Docker
 - 🎵 `Pop` and `Electronic` music
 - 🎞️ Movies and TV shows
 
