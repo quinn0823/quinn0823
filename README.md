@@ -11,10 +11,8 @@
 
 See me on [WakeTime](https://wakatime.com/@jonathanchiu).
 
-- HTML and CSS
+- Python / MicroPython
 - JavaScript
-- Python
-- C / C++
 
 ## 🌐 Speaking...
 
