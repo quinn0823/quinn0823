@@ -9,7 +9,7 @@
 
 ## ⌨️ Coding...
 
-See me on [WakeTime](https://wakatime.com/@jonathanchiu).
+See me on [WakaTime](https://wakatime.com/@jonathanchiu).
 
 - Python / MicroPython
 - JavaScript
