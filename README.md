@@ -1,7 +1,5 @@
 <h1 align=center>Hi! I'm Jonathan Chiu.</h1>
 
-<p align=center>17, STUDENT, DEVELOPER</p>
-
 <!-- ## 🦄 About
 
 - 2020 - 2023: 👨‍🎓 Student, Hongfan School Attached to Chongqing No.8 Secondary School
